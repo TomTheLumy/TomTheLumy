@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Adlerka Games</title>
+</head>
+<body>
+    <h1>Tomove legendární slogany:</h1>
+    <h3>Nerýmuje se tenhle souhrn řádků <br>
+        Lumy by chtěl souhrn zadků</h3>
+    <h3>Sahat na ně pevně <br>
+        Prsty strkat zevně</h3>
+    <h3>Ochutnat čokoládu prdelní <br>
+        Pro jeho rodinu zločin hrdelní</h3>
+    <p> <br>
+        <br>
+        #LumyEditz #TomMaHugePP<br>
+    #Barrio #Ganton18th
+    </p>
+    <style>
+       p{
+           color: yellow;
+           font-family: tahoma;
+           nav-down: auto;
+       }
+        body {
+            background-color: blueviolet;
+            font-family: cursive;
+        }
+    </style>
+    
+</body>
+</html>
